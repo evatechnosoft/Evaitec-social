@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1584 396" width="1584" height="396">
+  <defs>
+    <linearGradient id="bgG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14"/>
+      <stop offset="100%" stop-color="#0e1420"/>
+    </linearGradient>
+    <linearGradient id="lineG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#34d399"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="80%" stop-color="#0d9488"/>
+      <stop offset="100%" stop-color="#0d9488" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="leafG" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2ECC71"/>
+      <stop offset="100%" stop-color="#1ABC9C"/>
+    </linearGradient>
+    <linearGradient id="techG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#17A2B8"/>
+      <stop offset="100%" stop-color="#0077B6"/>
+    </linearGradient>
+    <linearGradient id="txtG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#0d9488"/>
+    </linearGradient>
+  </defs>
+  <rect width="1584" height="396" fill="url(#bgG)"/>
+  <!-- Subtle grid -->
+  <g opacity="0.04" stroke="#06b6d4" stroke-width="0.5">
+    <line x1="0" y1="99" x2="1584" y2="99"/><line x1="0" y1="198" x2="1584" y2="198"/><line x1="0" y1="297" x2="1584" y2="297"/>
+    <line x1="396" y1="0" x2="396" y2="396"/><line x1="792" y1="0" x2="792" y2="396"/><line x1="1188" y1="0" x2="1188" y2="396"/>
+  </g>
+  <!-- Glow line bottom -->
+  <rect x="200" y="340" width="1184" height="2" fill="url(#lineG)" rx="1"/>
+  <!-- Infinity logo -->
+  <g transform="translate(620, 160)">
+    <path d="M0,0 C-18,-36 -66,-36 -66,0 C-66,36 -18,36 0,0" fill="none" stroke="url(#leafG)" stroke-width="5.5" stroke-linecap="round"/>
+    <line x1="-48" y1="-10" x2="-34" y2="0" stroke="#2ECC71" stroke-width="1.2" opacity="0.4"/>
+    <line x1="-48" y1="10" x2="-34" y2="0" stroke="#2ECC71" stroke-width="1.2" opacity="0.4"/>
+    <path d="M0,0 C18,-36 66,-36 66,0 C66,36 18,36 0,0" fill="none" stroke="url(#techG)" stroke-width="5.5" stroke-linecap="round"/>
+    <line x1="34" y1="-10" x2="48" y2="-10" stroke="#0077B6" stroke-width="1.5" opacity="0.4"/>
+    <circle cx="50" cy="-10" r="2.2" fill="#0077B6" opacity="0.4"/>
+    <line x1="34" y1="10" x2="48" y2="10" stroke="#0077B6" stroke-width="1.5" opacity="0.4"/>
+    <circle cx="50" cy="10" r="2.2" fill="#0077B6" opacity="0.4"/>
+    <rect x="-9" y="-9" width="18" height="18" rx="3.5" fill="none" stroke="url(#txtG)" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="'SF Pro Display',sans-serif" font-size="9" font-weight="700" fill="url(#txtG)">AI</text>
+  </g>
+  <!-- Main text -->
+  <text x="792" y="248" text-anchor="middle" font-family="'SF Pro Display','Helvetica Neue',sans-serif" font-size="60" font-weight="200" fill="#FFFFFF" letter-spacing="10">ev@itec</text>
+  <!-- Tagline -->
+  <text x="792" y="290" text-anchor="middle" font-family="'SF Pro Display',sans-serif" font-size="13" font-weight="400" fill="#64748b" letter-spacing="5">AI Solutions · Software Development · Process Automation · Technology Consulting</text>
+  <!-- Corner accents -->
+  <g opacity="0.12" stroke="#06b6d4" stroke-width="1">
+    <polyline points="24,24 24,52 52,52" fill="none"/>
+    <polyline points="1560,24 1560,52 1532,52" fill="none"/>
+    <polyline points="24,372 24,344 52,344" fill="none"/>
+    <polyline points="1560,372 1560,344 1532,344" fill="none"/>
+  </g>
+</svg>

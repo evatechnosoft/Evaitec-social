@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#080c14"/><stop offset="100%" stop-color="#0e1420"/></linearGradient>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#34d399"/><stop offset="50%" stop-color="#06b6d4"/><stop offset="100%" stop-color="#0d9488"/></linearGradient>
+    <linearGradient id="btn" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0d9488"/><stop offset="100%" stop-color="#06b6d4"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <text x="540" y="360" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="300" fill="#fff" letter-spacing="2">BIRLIKTE</text>
+  <text x="540" y="420" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="300" fill="#fff" letter-spacing="2">INSA EDELIM</text>
+  <text x="540" y="500" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#94a3b8" letter-spacing="1">AI - Software - Automation - Consulting</text>
+  <rect x="390" y="570" width="300" height="56" rx="28" fill="url(#btn)"/>
+  <text x="540" y="604" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="600" fill="#080c14" letter-spacing="2">ILETISIME GEC</text>
+  <text x="540" y="690" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#64748b">evaitec.com/consult</text>
+  <text x="540" y="980" text-anchor="middle" font-family="sans-serif" font-size="24" fill="url(#g)" letter-spacing="6">ev@itec</text>
+</svg>

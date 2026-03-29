@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#080c14"/><stop offset="100%" stop-color="#0e1420"/></linearGradient>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#34d399"/><stop offset="50%" stop-color="#06b6d4"/><stop offset="100%" stop-color="#0d9488"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <g opacity="0.04" stroke="#06b6d4" stroke-width=".5"><line x1="0" y1="360" x2="1080" y2="360"/><line x1="0" y1="720" x2="1080" y2="720"/></g>
+  <!-- Phone mockup -->
+  <rect x="390" y="180" width="300" height="560" rx="28" fill="none" stroke="#1e293b" stroke-width="3"/>
+  <rect x="400" y="210" width="280" height="500" rx="4" fill="#111827"/>
+  <!-- Dashboard elements inside phone -->
+  <rect x="420" y="230" width="240" height="40" rx="8" fill="#0d948830"/>
+  <text x="540" y="256" text-anchor="middle" font-family="'Helvetica Neue',sans-serif" font-size="14" fill="#34d399">E-Car Dashboard</text>
+  <rect x="420" y="285" width="115" height="70" rx="8" fill="#131b2a" stroke="#1e293b" stroke-width="1"/>
+  <text x="477" y="315" text-anchor="middle" font-family="'Helvetica Neue',sans-serif" font-size="10" fill="#64748b">Battery</text>
+  <text x="477" y="340" text-anchor="middle" font-family="'Helvetica Neue',sans-serif" font-size="18" font-weight="600" fill="#34d399">78%</text>
+  <rect x="545" y="285" width="115" height="70" rx="8" fill="#131b2a" stroke="#1e293b" stroke-width="1"/>
+  <text x="602" y="315" text-anchor="middle" font-family="'Helvetica Neue',sans-serif" font-size="10" fill="#64748b">Speed</text>
+  <text x="602" y="340" text-anchor="middle" font-family="'Helvetica Neue',sans-serif" font-size="18" font-weight="600" fill="#06b6d4">42 km/h</text>
+  <rect x="420" y="370" width="240" height="50" rx="8" fill="#131b2a" stroke="#1e293b" stroke-width="1"/>
+  <text x="440" y="400" font-family="'Helvetica Neue',sans-serif" font-size="11" fill="#64748b">Votol EM150</text>
+  <text x="640" y="400" text-anchor="end" font-family="'Helvetica Neue',sans-serif" font-size="11" fill="#34d399">Connected</text>
+  <rect x="420" y="430" width="240" height="50" rx="8" fill="#131b2a" stroke="#1e293b" stroke-width="1"/>
+  <text x="440" y="460" font-family="'Helvetica Neue',sans-serif" font-size="11" fill="#64748b">BMS JK-B2A24S</text>
+  <text x="640" y="460" text-anchor="end" font-family="'Helvetica Neue',sans-serif" font-size="11" fill="#06b6d4">48V 20Ah</text>
+  <text x="540" y="830" text-anchor="middle" font-family="'Helvetica Neue',sans-serif" font-size="30" font-weight="300" fill="#fff" letter-spacing="2">FLUTTER + BLE</text>
+  <text x="540" y="875" text-anchor="middle" font-family="'Helvetica Neue',sans-serif" font-size="16" fill="#94a3b8" letter-spacing="1">Cross-platform EV monitoring</text>
+  <g opacity="0.15" stroke="#06b6d4" stroke-width="1"><polyline points="40,40 40,70 70,70" fill="none"/><polyline points="1040,40 1040,70 1010,70" fill="none"/><polyline points="40,1040 40,1010 70,1010" fill="none"/><polyline points="1040,1040 1040,1010 1010,1010" fill="none"/></g>
+  <text x="540" y="980" text-anchor="middle" font-family="'Helvetica Neue',sans-serif" font-size="20" fill="url(#g)" letter-spacing="4">ev@itec</text>
+</svg>

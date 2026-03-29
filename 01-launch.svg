@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#080c14"/><stop offset="100%" stop-color="#0e1420"/></linearGradient>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#34d399"/><stop offset="50%" stop-color="#06b6d4"/><stop offset="100%" stop-color="#0d9488"/></linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#34d399" stop-opacity="0"/><stop offset="50%" stop-color="#06b6d4"/><stop offset="100%" stop-color="#0d9488" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <g opacity="0.04" stroke="#06b6d4" stroke-width=".5">
+    <line x1="0" y1="270" x2="1080" y2="270"/><line x1="0" y1="540" x2="1080" y2="540"/><line x1="0" y1="810" x2="1080" y2="810"/>
+    <line x1="270" y1="0" x2="270" y2="1080"/><line x1="540" y1="0" x2="540" y2="1080"/><line x1="810" y1="0" x2="810" y2="1080"/>
+  </g>
+  <text x="540" y="420" text-anchor="middle" font-family="'Helvetica Neue',sans-serif" font-size="72" font-weight="200" fill="#fff" letter-spacing="8">ev@itec</text>
+  <rect x="340" y="450" width="400" height="2" fill="url(#line)" rx="1"/>
+  <text x="540" y="520" text-anchor="middle" font-family="'Helvetica Neue',sans-serif" font-size="22" fill="#64748b" letter-spacing="4">RESMEN BAŞLIYOR</text>
+  <text x="540" y="620" text-anchor="middle" font-family="'Helvetica Neue',sans-serif" font-size="18" fill="#94a3b8" letter-spacing="2">AI Solutions · Software · Automation</text>
+  <text x="540" y="660" text-anchor="middle" font-family="'Helvetica Neue',sans-serif" font-size="18" fill="#94a3b8" letter-spacing="2">Technology Consulting</text>
+  <g opacity="0.15" stroke="#06b6d4" stroke-width="1"><polyline points="40,40 40,70 70,70" fill="none"/><polyline points="1040,40 1040,70 1010,70" fill="none"/><polyline points="40,1040 40,1010 70,1010" fill="none"/><polyline points="1040,1040 1040,1010 1010,1010" fill="none"/></g>
+  <text x="540" y="1020" text-anchor="middle" font-family="'Helvetica Neue',sans-serif" font-size="13" fill="#475569" letter-spacing="3">evaitec.com</text>
+</svg>

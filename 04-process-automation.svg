@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#080c14"/><stop offset="100%" stop-color="#0e1420"/></linearGradient>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#34d399"/><stop offset="50%" stop-color="#06b6d4"/><stop offset="100%" stop-color="#0d9488"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <g transform="translate(540,320)">
+    <rect x="-180" y="-60" width="120" height="50" rx="10" fill="none" stroke="#34d399" stroke-width="2"/>
+    <text x="-120" y="-28" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#34d399">Veri Girisi</text>
+    <line x1="-60" y1="-35" x2="-20" y2="-35" stroke="#1e293b" stroke-width="2"/>
+    <rect x="-20" y="-60" width="120" height="50" rx="10" fill="none" stroke="#06b6d4" stroke-width="2"/>
+    <text x="40" y="-28" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#06b6d4">AI Isleme</text>
+    <line x1="100" y1="-35" x2="140" y2="-35" stroke="#1e293b" stroke-width="2"/>
+    <rect x="140" y="-60" width="120" height="50" rx="10" fill="none" stroke="#0d9488" stroke-width="2"/>
+    <text x="200" y="-28" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#0d9488">Otomasyon</text>
+  </g>
+  <text x="540" y="520" text-anchor="middle" font-family="sans-serif" font-size="36" font-weight="300" fill="#fff" letter-spacing="3">SUREC OTOMASYONU</text>
+  <text x="540" y="650" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#94a3b8">Tekrarlayan isleri otomatiklestirin.</text>
+  <text x="540" y="685" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#94a3b8">Ekibiniz gercekten onemli islere odaklansin.</text>
+  <text x="540" y="980" text-anchor="middle" font-family="sans-serif" font-size="20" fill="url(#g)" letter-spacing="4">ev@itec</text>
+</svg>
